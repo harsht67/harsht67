@@ -2,9 +2,8 @@
 <h3 align="center">A web developer from India</h3>
 
 - I’m currently learning **backend development**
-- Check out my portfolio 👉 [https://harshtomar.netlify.app/](https://harshtomar.netlify.app)
+- Check out my portfolio 👉 [**https://harshtomar.netlify.app/**](https://harshtomar.netlify.app)
 - Contact me 👉 **harshtomar67tb@gmail.com**
-- Know about my experiences 👉 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
