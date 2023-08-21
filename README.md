@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Harsh</h1>
-<h3 align="center">A web developer from India</h3>
+<h3 align="center">I like coding...</h3>
+
+<img align="right" width="400px" alt="gif" src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" />
 
 - 🔭 I’m currently working on **v2 of my website**
 
